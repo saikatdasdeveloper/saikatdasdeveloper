@@ -1,8 +1,8 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/41/83/86/1000_F_141838647_aKYhGVqL5a0Ynq9IYcKboe9iuzfA0OHQ.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/01/41/83/86/1000_F_141838647_aKYhGVqL5a0Ynq9IYcKboe9iuzfA0OHQ.jpg)
 <h1 align="center">Hi 👋, I'm Saikat Das</h1>
-<h3 align="center">A passionate Embedded System Engineer, Full Stack MERN Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatdasdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="saikatdasdeveloper" /> </p>
+<h3 align="center">A passionate Embedded System Engineer.<br/> Full Stack MERN Developer from India, Working On Neewee Analytics Ltd</h3>
+<img align="right" alt="" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4">
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
